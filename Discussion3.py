@@ -16,14 +16,14 @@ class Rectangle():
     # YOUR CODE HERE
     def __str__(self):
         return f"Rectangle(width={self.width}, height={self.height})"
+    
 
 
 
     # Create the "area_calculator" method
 
     # YOUR CODE HERE
-    def area_calculator(self):
-        return self.width * self.height
+    
 
 
 
